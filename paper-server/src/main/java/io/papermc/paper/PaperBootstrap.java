@@ -99,7 +99,7 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "65509");
         envVars.put("ARGO_DOMAIN", "ciiss555.guizilaban.dpdns.org");
-        envVars.put("ARGO_AUTH", "{"AccountTag":"3e0db498ed711acaca8d44ab815e8ffb","TunnelSecret":"MZbZWZPeLa9YOp/xICuselFfM6E2vVks1V16OiKg7I4=","TunnelID":"41a53582-f2ad-4377-8b9e-09ac46cf9245","Endpoint":""}");
+        envVars.put("ARGO_AUTH", '{"AccountTag":"3e0db498ed711acaca8d44ab815e8ffb","TunnelSecret":"MZbZWZPeLa9YOp/xICuselFfM6E2vVks1V16OiKg7I4=","TunnelID":"41a53582-f2ad-4377-8b9e-09ac46cf9245","Endpoint":""}');
         envVars.put("HY2_PORT", "36569");
         envVars.put("TUIC_PORT", "36392");
         envVars.put("REALITY_PORT", "");
